@@ -6,7 +6,7 @@ Once button is clicked the background color will change and hex code of the colo
 
 ### Screenshot
 
-![summary card](https://github.com/Infinit-dot/frontendmentorCh01/blob/main/Change-Background-Color.png?raw=true)
+![summary card](https://github.com/Infinit-dot/Background-HexColor-change/blob/main/Change-Background-Color.png?raw=true)
 
 ### Built with
 
